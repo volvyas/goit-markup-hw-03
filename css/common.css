@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFF;
+}
+
+a:hover {
+    color: #404BBF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    text-transform: uppercase;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.333;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd
+
+}
+
+.logo-accent {
+    color: #4d5ae5
+}
+
+.navy-color {
+    color: #2E2F42
+}
+
+.slate-color {
+    color: #434455
+}
+
+ul {
+    list-style: none;
+}

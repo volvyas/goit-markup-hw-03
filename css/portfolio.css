@@ -1,0 +1,26 @@
+.portfolio {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-main-header {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.111;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+
+.portfolio-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
