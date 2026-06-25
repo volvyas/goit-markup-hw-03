@@ -3,6 +3,10 @@
     letter-spacing: 0.02em;
 }
 
+.features-card {
+    max-width: 264px;
+}
+
 .features-header {
     font-size: 20px;
     line-height: 1.2;

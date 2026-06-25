@@ -1,3 +1,17 @@
+.page-header {
+    border-bottom: 1px solid #E7E9FC;
+}
+
+.nav-list {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-list li {
+    padding: 24px 0;
+
+}
+
 .nav-list li a {
     font-weight: 500;
     line-height: 1.5;
@@ -19,3 +33,4 @@
 .address li a:focus {
     color: #404bbf;
 }
+

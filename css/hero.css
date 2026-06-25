@@ -6,11 +6,15 @@
     opacity: 1;
     background-color: #4D5AE5;
     color: #FFF;
-
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    vertical-align: middle;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 48px;
+    padding: 16px 32px;
+    border-radius: 4px;
 }
 
 .hero-order-button:focus {
@@ -19,7 +23,6 @@
 
 .hero-order-button:hover {
     background-color: #404BBF;
-    cursor: pointer;
 }
 
 .hero-header {
@@ -29,4 +32,8 @@
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffff;
+    width: 496px;
+    height: 120px;
+    max-width: 496px;
+    margin: 0 auto;
 }
