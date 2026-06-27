@@ -5,6 +5,11 @@
 
 .features-card {
     max-width: 264px;
+    width: 264px;
+}
+
+.features-card p {
+    margin-top: 8px;
 }
 
 .features-header {

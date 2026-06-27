@@ -78,6 +78,14 @@ body {
     flex-wrap: wrap;
 }
 
+.flex-container-no-wrap {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
 .flex-h {
     flex-direction: row;
 }

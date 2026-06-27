@@ -5,6 +5,8 @@
 
 .portfolio-list {
     margin-top: 72px;
+    row-gap: 48px;
+    column-gap: 24px;
 }
 
 .portfolio-card {

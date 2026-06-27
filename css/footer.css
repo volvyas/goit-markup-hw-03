@@ -2,6 +2,7 @@
     background-color: #2e2f42;
     line-height: 1.5;
     color: #f4f4fd;
+    padding: 100px 0;
 }
 
 .footer-text {
@@ -9,4 +10,9 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+
+.footer-text-container {
+    max-width: 264px; 
+    padding-top: 16px;
 }

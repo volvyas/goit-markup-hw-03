@@ -2,9 +2,18 @@
     border-bottom: 1px solid #E7E9FC;
 }
 
+.page-header .flex-container-no-wrap {
+    justify-content: flex-start;
+    gap: 76px;
+}
+
+.page-header address {
+    margin-left: auto;
+}
+
 .nav-list {
     display: flex;
-    gap: 30px;
+    gap: 40px;
 }
 
 .nav-list li {
