@@ -16,10 +16,6 @@
     gap: 40px;
 }
 
-.nav-list li {
-    padding: 24px 0;
-
-}
 
 .nav-list li a {
     font-weight: 500;
@@ -27,6 +23,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
     display: block;
+    padding: 24px 0;
 }
 
 .nav-list li a:focus {
